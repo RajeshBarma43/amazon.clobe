@@ -1,1 +1,1 @@
-# amazon.clobe
+# amazon.clone
